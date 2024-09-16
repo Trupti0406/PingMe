@@ -4,7 +4,7 @@ PingMe is a real-time chat application built using the **MERN stack** with **Soc
 
 ## Live Demo
 
-[Click here to view the live demo](your_live_demo_link)
+[Click here to view the live demo](https://pingme-rkv6.onrender.com/)
 
 ## Key Features
 
